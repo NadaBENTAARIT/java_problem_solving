@@ -1,0 +1,4 @@
+// pgcd
+
+
+//nombre premier
